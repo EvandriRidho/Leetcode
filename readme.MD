@@ -18,21 +18,6 @@ Repository ini berisi kumpulan solusi soal LeetCode yang saya kerjain sebagai ba
 | Hard | 0 |
 | **Total** | 0 |
 
-📂 Struktur Folder
-leetcode/
-│
-├── easy/
-│ ├── 001-two-sum/
-│ │ ├── solution.js
-│ │ └── README.md
-│ │
-├── medium/
-│ ├── 002-add-two-numbers/
-│ │ ├── solution.js
-│ │ └── README.md
-│
-└── hard/
-
 📝 Format Penjelasan Soal
 
 Setiap folder soal biasanya berisi:
