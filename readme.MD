@@ -13,10 +13,10 @@ Repository ini berisi kumpulan solusi soal LeetCode yang saya kerjain sebagai ba
 📊 Progress
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy | 0 |
+| Easy | 1 |
 | Medium | 0 |
 | Hard | 0 |
-| **Total** | 0 |
+| **Total** | 1 |
 
 📝 Format Penjelasan Soal
 
